@@ -35,5 +35,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: mescourses-debug-apk
-          path: app/build/outputs/apk/debug/app-de
-          bug.apk
+          path: app/build/outputs/apk/debug/app-debug.apk
